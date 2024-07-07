@@ -1,0 +1,50 @@
+
+.cardone{
+    background-color: greenyellow;
+    width: 250px;
+    min-height: 100px;
+}
+.cardtwo{
+    background-color: blue;
+    width: 250px;
+    min-height: 100px;
+}
+.cardthree{
+    background-color: red;
+    width: 250px;
+    min-height: 100px;
+}
+.cardfour{
+    background-color: yellow;
+    width: 250px;
+    min-height: 100px;
+}
+.cardsix{
+    background-color: aqua;
+    width: 250px;
+    min-height: 100px;
+}
+.cardfive{
+    background-color: aqua;
+    width: 250px;
+    min-height: 100px;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+   border-radius: px;
+    margin: 10px;
+    padding: 60px;
+    padding: 25px;
+}
+
+.img{
+    width: 200px;
+    border-radius: 20px;
+}
